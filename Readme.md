@@ -2,6 +2,7 @@
 
 - php v8.0+
 - terminal
+- files from this repository(if u want to run it locally)
 <hr>
 
 # How to view:
@@ -16,17 +17,17 @@
 - ## Manually running each file
 
   - run each file in the terminal
-  - for ease, the filenames have an incremental prefix
-  - ```
+  - for ease, the filenames have an incremental prefix (_01_ to _24_)
+    ```
     php _01*
     ```
   - change the \_01\* to any question number you want, example:
-    - ```
-      php _02*
-      ```
-    - ```
-      php _03*
-      ```
+    ```
+    php _02*
+    ```
+    ```
+     php _03*
+    ```
 
 - ## View the screenshots
   - I've slightly manipulated the images below so that the viewing experience is not boring.
