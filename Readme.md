@@ -20,7 +20,7 @@
   - ```
     php _01*
     ```
-  - change the \_01\* to any question number you wan, example:
+  - change the \_01\* to any question number you want, example:
     - ```
       php _02*
       ```
@@ -30,7 +30,7 @@
 
 - ## View the screenshots
   - I've slightly manipulated the images below so that the viewing experience is not boring.
-  - Un-altered images can be found <a href="../screenshots">HERE</a>
+  - Un-altered images can be found <a href="https://github.com/PG-Momik/Matrix-Softech/tree/main/screenshots">HERE</a>
   <hr>
 
 # Screenshots
