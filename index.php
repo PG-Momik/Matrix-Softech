@@ -36,5 +36,4 @@ for($i=1;$i<25;$i++){
     echo "-{$keywords[$i-1]}-".PHP_EOL;
     echo $output;
     echo "----------------------------------------".PHP_EOL;
-    echo PHP_EOL;
 }
