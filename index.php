@@ -9,7 +9,7 @@ $keywords = array(
     "HCF",
     "Leap year or Not",
     "Reverse Numeric Triangle",
-    "NormalStarTriangle"
+    "NormalStarTriangle",
     "Normal Numeric Triangle",
     "Factors of a number",
     "Multiplication table",
@@ -33,7 +33,8 @@ for($i=1;$i<25;$i++){
         $fileName = $i;
     }
     $output = shell_exec("php _{$fileName}*");
-    echo "########{$keywords[$i-1]}#########".PHP_EOL;
-    echo $output.PHP_EOL;
-    echo "####################".PHP_EOL;
+    echo "-{$keywords[$i-1]}-".PHP_EOL;
+    echo $output;
+    echo "----------------------------------------".PHP_EOL;
+    echo PHP_EOL;
 }
